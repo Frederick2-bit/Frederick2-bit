@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Fredrick
 
 <!--
 **Frederick2-bit/Frederick2-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
